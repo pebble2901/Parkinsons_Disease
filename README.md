@@ -9,14 +9,6 @@ The test consists of **3 parts**:
  
  The test data is collected in the form of lists annotated by the *X, Y, Time* coordinates of the touch points that are involved in the drawing of the spiral. This data is anaylsed using AI techniques to predict a probability of Parkinsonism symptoms which is then provided to the neurologist who can further infer and diagnose ahead and start early treatment.
  
-The test also saves a lot of useful time and money that would be otherwise wasted at the neurologist's office, hence being economical and resourceful at the same time.
 
----
-The repository consists of a standalone Android app and a Pygame based Application that provides an intuitive UI for the user to give the test.
-The AI analysis is done on the basis of a mathematical test that calculates a score which provides the probability function of the Parkinsonism Symptom.
-We have referred to the following paper for the calculation of the DAH Score.
-
-
- ```
 
 
